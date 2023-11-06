@@ -65,6 +65,7 @@ class MainActivity : AppCompatActivity() {
             doBindService()
         } else {
             requestPermission()
+            doBindService()
         }
     }
     private fun checkPermission():Boolean{
