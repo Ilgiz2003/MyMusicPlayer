@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="default_song_title">Favorite song</string>
+    <string name="default_song_duration">59:59</string>
+    <string name="current_song">Current Playing Song</string>
+    <string name="song_start">0:0</string>
+    <string name="not_played">Nothing is being played</string>
+
+</resources>
